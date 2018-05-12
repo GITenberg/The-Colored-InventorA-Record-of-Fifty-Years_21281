@@ -1,0 +1,29 @@
+_repo: The-Colored-InventorA-Record-of-Fifty-Years_21281
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Baker, Henry E. (Henry Edwin)
+    alias: Baker, Henry Edwin
+    birthdate: 1859
+    gutenberg_agent_id: '9826'
+    url: http://www.gutenberg.org/2009/agents/9826
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2007-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21281'
+  lccn: '13024814'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'African American inventors'
+- !lcc 'E151'
+- !lcsh 'Inventions -- United States'
+title: 'The Colored Inventor: A Record of Fifty Years'
+url: http://www.gutenberg.org/ebooks/21281
