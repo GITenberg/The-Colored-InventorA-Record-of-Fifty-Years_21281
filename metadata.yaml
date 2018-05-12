@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '9826'
     url: http://www.gutenberg.org/2009/agents/9826
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21281#The-Colored-InventorA-Record-of-Fifty-Years
 gutenberg_bookshelf: Technology
 gutenberg_issued: '2007-05-03'
 gutenberg_type: Text
